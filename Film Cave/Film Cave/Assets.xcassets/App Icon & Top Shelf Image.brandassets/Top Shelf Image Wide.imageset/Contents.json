@@ -1,0 +1,72 @@
+{
+  "images" : [
+    {
+      "filename" : "filmCaveTopShelfWide.png",
+      "idiom" : "tv",
+      "scale" : "1x"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "filmCaveTopShelfWideDark.png",
+      "idiom" : "tv",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "filmCaveTopShelfWidex2.png",
+      "idiom" : "tv",
+      "scale" : "2x"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "filmCaveTopShelfWideDarkx2.png",
+      "idiom" : "tv",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "filmCaveTopShelfWide-1.png",
+      "idiom" : "tv-marketing",
+      "scale" : "1x"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "filmCaveTopShelfWideDark-1.png",
+      "idiom" : "tv-marketing",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "filmCaveTopShelfWidex2-1.png",
+      "idiom" : "tv-marketing",
+      "scale" : "2x"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "filmCaveTopShelfWideDarkx2-1.png",
+      "idiom" : "tv-marketing",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

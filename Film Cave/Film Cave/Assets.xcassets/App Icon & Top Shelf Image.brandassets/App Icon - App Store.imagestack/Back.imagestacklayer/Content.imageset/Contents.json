@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "filmCaveLargeBackgroundx1.png",
+      "idiom" : "tv"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "filmCaveLargeBackgroundDarkx1.png",
+      "idiom" : "tv"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
